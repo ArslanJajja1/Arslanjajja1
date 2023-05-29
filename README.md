@@ -58,7 +58,7 @@ I actively contribute to the programming community by writing articles on Hashno
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: linkedin.com/in/arslanharoon
+- LinkedIn: https://linkedin.com/in/arslanharoon
 - Email: official.arslan.haroon@gmail.com
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you! 🤝
