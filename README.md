@@ -41,7 +41,7 @@ I also run a programming YouTube channel where I share tutorials, coding challen
 
 ## Articles on Hashnode ✍️
 
-I actively contribute to the programming community by writing articles on Hashnode, covering various topics related to web development, JavaScript, and best practices.
+I actively contribute to the programming community by writing articles on Hashnode, covering various topics related to DSA, Leetcode, web development, JavaScript, and best practices.
 
 - https://arslanharoon.hashnode.dev
 
