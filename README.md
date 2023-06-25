@@ -8,51 +8,51 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### Bootcamp Directory Website API | Node.js, Express.js, MongoDB
+### 2. Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
+### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
+### 4. 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### YouTube Clone | React.js, Material UI, Rapid API
+### 5. YouTube Clone | React.js, Material UI, Rapid API
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### Article Summerizer | React.js, Tailwind CSS, Rapid API
+### 6. Article Summerizer | React.js, Tailwind CSS, Rapid API
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
+### 7. Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
-### SushiSpot Landing Page | HTML, CSS
+### 8. SushiSpot Landing Page | HTML, CSS
 
-#### Deployed Link : 
-#### Github Repository :
-#### Video Demo of Project : 
+#### Deployed Link : will be added soon
+#### Github Repository : will be added soon
+#### Video Demo of Project : will be added soon
 
   
 ## YouTube Channel: Programming with Arslan 🎥
