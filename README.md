@@ -6,13 +6,22 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ## Projects 💻
 
-### MERN Stack eCommerce Web Application
+### Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
 
-> A scalable and robust eCommerce web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+### Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
-### Bootcamp Directory Website API
+### Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
-> A robust API for managing bootcamp listings, courses, user authentication, and reviews.
+### 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
+
+### YouTube Clone | React.js, Material UI, Rapid API
+
+### Article Summerizer | React.js, Tailwind CSS, Rapid API
+
+### Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
+
+### SushiSpot Landing Page | HTML, CSS
+
   
 ## YouTube Channel: Programming with Arslan 🎥
 
