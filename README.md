@@ -9,8 +9,11 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
 
 #### Deployed Link : will be added soon
-#### Github Repository : https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
-#### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
+
+#### Github Repository : <a href="https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app" target="_blank">https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app</a>
+
+#### Video Demo of Project : <a href="https://youtu.be/gMoH6iLz6h4" target="_blank">https://youtu.be/gMoH6iLz6h4</a>
+
 
 ### 2. Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
