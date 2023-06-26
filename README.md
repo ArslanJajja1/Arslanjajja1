@@ -6,55 +6,55 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ## Projects 💻
 
-  ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
+- ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
   
-  #### Deployed Link : will be added soon
+- #### Deployed Link : will be added soon
   
-  #### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
+- #### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
   
-  #### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
+- #### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
 
 ### 2. Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
-  #### Heroku Deployed Link : https://bootcamps-directory-web-api-70edc697e0cb.herokuapp.com/
+- #### Heroku Deployed Link : https://bootcamps-directory-web-api-70edc697e0cb.herokuapp.com/
   
-  #### Postman Documentaion Deployed Link : https://documenter.getpostman.com/view/14040172/VUquNGDU
+- #### Postman Documentaion Deployed Link : https://documenter.getpostman.com/view/14040172/VUquNGDU
   
-  #### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
+- #### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
   
-  #### Video Demo of Project : will be added soon
+- #### Video Demo of Project : will be added soon
 
 ### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
-  #### Deployed Link : will be added soon
+- #### Deployed Link : will be added soon
   
-  #### Github Repository : https://github.com/ArslanJajja1/mern-chat-application
+- #### Github Repository : https://github.com/ArslanJajja1/mern-chat-application
   
-  #### Video Demo of Project : will be added soon
+- #### Video Demo of Project : will be added soon
 
 ### 4. 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
 
-#### Deployed Link : https://www.youtube.com/watch?v=-XyrUePwH7w
+- #### Deployed Link : https://www.youtube.com/watch?v=-XyrUePwH7w
 
-#### Github Repository : https://github.com/ArslanJajja1/10-Websites-In-12-Hour-YouTube-Tutorial
+- #### Github Repository : https://github.com/ArslanJajja1/10-Websites-In-12-Hour-YouTube-Tutorial
 
-#### Video Demo of Project : https://www.youtube.com/watch?v=-XyrUePwH7w
+- #### Video Demo of Project : https://www.youtube.com/watch?v=-XyrUePwH7w
 
 ### 5. YouTube Clone | React.js, Material UI, Rapid API
 
-#### Deployed Link : https://cute-lokum-4114f6.netlify.app/
+- #### Deployed Link : https://cute-lokum-4114f6.netlify.app/
 
-#### Github Repository : https://github.com/ArslanJajja1/Video-Sharing-Application
+- #### Github Repository : https://github.com/ArslanJajja1/Video-Sharing-Application
 
-#### Video Demo of Project : will be added soon
+- #### Video Demo of Project : will be added soon
 
 ### 6. Article Summerizer | React.js, Tailwind CSS, Rapid API
 
-#### Deployed Link : will be added soon
+- #### Deployed Link : will be added soon
 
-#### Github Repository : https://github.com/ArslanJajja1/Article-Summarizer
+- #### Github Repository : https://github.com/ArslanJajja1/Article-Summarizer
 
-#### Video Demo of Project : will be added soon
+- #### Video Demo of Project : will be added soon
 
 ### 7. Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
 
@@ -66,9 +66,9 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 8. SushiSpot Landing Page | HTML, CSS
 
-#### Deployed Link : will be added soon
-#### Github Repository : will be added soon
-#### Video Demo of Project : will be added soon
+- #### Deployed Link : will be added soon
+- #### Github Repository : https://github.com/ArslanJajja1/SushiSpot-Landing-Page
+- #### Video Demo of Project : will be added soon
 
   
 ## YouTube Channel: Programming with Arslan 🎥
