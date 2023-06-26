@@ -6,26 +6,31 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ## Projects 💻
 
-### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
-
-#### Deployed Link : will be added soon
-
-#### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
-
-#### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
+  ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
+  
+  #### Deployed Link : will be added soon
+  
+  #### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
+  
+  #### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
 
 ### 2. Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
-#### Heroku Deployed Link : https://bootcamps-directory-web-api-70edc697e0cb.herokuapp.com/
-#### Postman Documentaion Deployed Link : https://documenter.getpostman.com/view/14040172/VUquNGDU
-#### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
-#### Video Demo of Project : will be added soon
+  #### Heroku Deployed Link : https://bootcamps-directory-web-api-70edc697e0cb.herokuapp.com/
+  
+  #### Postman Documentaion Deployed Link : https://documenter.getpostman.com/view/14040172/VUquNGDU
+  
+  #### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
+  
+  #### Video Demo of Project : will be added soon
 
 ### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
-#### Deployed Link : will be added soon
-#### Github Repository : will be added soon
-#### Video Demo of Project : will be added soon
+  #### Deployed Link : will be added soon
+  
+  #### Github Repository : https://github.com/ArslanJajja1/mern-chat-application
+  
+  #### Video Demo of Project : will be added soon
 
 ### 4. 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
 
