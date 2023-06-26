@@ -10,7 +10,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 #### Deployed Link : will be added soon
 
-#### Github Repository : <a href="https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app" target="_blank">https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app</a>
+#### Github Repository: [Full-stack-ecommerce-web-app](https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app){:target="_blank"}
 
 #### Video Demo of Project : <a href="https://youtu.be/gMoH6iLz6h4" target="_blank">https://youtu.be/gMoH6iLz6h4</a>
 
