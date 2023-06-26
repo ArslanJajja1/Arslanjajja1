@@ -51,7 +51,9 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 ### 6. Article Summerizer | React.js, Tailwind CSS, Rapid API
 
 #### Deployed Link : will be added soon
-#### Github Repository : will be added soon
+
+#### Github Repository : https://github.com/ArslanJajja1/Article-Summarizer
+
 #### Video Demo of Project : will be added soon
 
 ### 7. Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
