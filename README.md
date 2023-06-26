@@ -6,7 +6,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ## Projects 💻
 
-- ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
+### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
   
 - #### Deployed Link : will be added soon
   
@@ -71,7 +71,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 - #### Video Demo of Project : will be added soon
 
   
-## YouTube Channel: Programming with Arslan 🎥
+## YouTube Channel: Arslan's Code Corner 🎥
 
 My programming youtube channel : Arslan's Code Corner
 - https://www.youtube.com/@arslancodecorner
@@ -89,6 +89,11 @@ I also write articles on hashnode in my free time.
 - Next.js
 - Node.js
 - Express.js
+- Typescript
+- SQL
+- Python
+- Tailwind CSS
+- Material UI
 - MongoDB
 - HTML/CSS
 - Git
