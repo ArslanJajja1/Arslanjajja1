@@ -58,9 +58,11 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 7. Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
 
-#### Deployed Link : will be added soon
-#### Github Repository : will be added soon
-#### Video Demo of Project : will be added soon
+- #### Deployed Link : https://metaversus-landing-page.web.app/
+
+- #### Github Repository : https://github.com/ArslanJajja1/Metaverse-Concept-Landing-Page
+
+- #### Video Demo of Project : will be added soon
 
 ### 8. SushiSpot Landing Page | HTML, CSS
 
