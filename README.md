@@ -10,15 +10,15 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 #### Deployed Link : will be added soon
 
-#### Github Repository: [Full-stack-ecommerce-web-app](https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app){:target="_blank"}
+#### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
 
-#### Video Demo of Project : <a href="https://youtu.be/gMoH6iLz6h4" target="_blank">https://youtu.be/gMoH6iLz6h4</a>
-
+#### Video Demo of Project : https://youtu.be/gMoH6iLz6h4
 
 ### 2. Bootcamp Directory Website API | Node.js, Express.js, MongoDB
 
-#### Deployed Link : will be added soon
-#### Github Repository : will be added soon
+#### Heroku Deployed Link : https://bootcamps-directory-web-api-70edc697e0cb.herokuapp.com/
+#### Postman Documentaion Deployed Link : https://documenter.getpostman.com/view/14040172/VUquNGDU
+#### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
 #### Video Demo of Project : will be added soon
 
 ### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
