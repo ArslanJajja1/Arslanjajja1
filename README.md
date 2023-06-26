@@ -34,9 +34,9 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 4. 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
 
-#### Deployed Link : will be added soon
-#### Github Repository : will be added soon
-#### Video Demo of Project : will be added soon
+#### Deployed Link : https://www.youtube.com/watch?v=-XyrUePwH7w
+#### Github Repository : https://github.com/ArslanJajja1/10-Websites-In-12-Hour-YouTube-Tutorial
+#### Video Demo of Project : https://www.youtube.com/watch?v=-XyrUePwH7w
 
 ### 5. YouTube Clone | React.js, Material UI, Rapid API
 
