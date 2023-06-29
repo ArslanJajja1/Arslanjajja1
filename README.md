@@ -30,7 +30,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
   
 - #### Github Repository : https://github.com/ArslanJajja1/mern-chat-application
   
-- #### Video Demo of Project : will be added soon
+- #### Video Demo of Project : https://youtu.be/_PJ9Xb2wQ4Y
 
 ### 4. 10 Websites in 12 Hour YouTube Tutorial | HTML, CSS, JavaScript
 
