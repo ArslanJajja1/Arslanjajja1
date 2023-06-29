@@ -8,7 +8,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 1. Full Stack eCommerce Web Application | MERN STACK, React.js, Node.js,Express.js, MongoDb
   
-- #### Deployed Link : will be added soon
+- #### Deployed Link : https://ecommerce-by-arslan.web.app/
   
 - #### Github Repository: https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app
   
@@ -26,7 +26,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
-- #### Deployed Link : will be added soon
+- #### Deployed Link : https://chat-app-by-arslan.web.app/
   
 - #### Github Repository : https://github.com/ArslanJajja1/mern-chat-application
   
