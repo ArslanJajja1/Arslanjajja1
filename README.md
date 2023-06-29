@@ -46,15 +46,11 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 - #### Github Repository : https://github.com/ArslanJajja1/Video-Sharing-Application
 
-- #### Video Demo of Project : will be added soon
-
 ### 6. Article Summerizer | React.js, Tailwind CSS, Rapid API
 
 - #### Deployed Link : will be added soon
 
 - #### Github Repository : https://github.com/ArslanJajja1/Article-Summarizer
-
-- #### Video Demo of Project : will be added soon
 
 ### 7. Metaverse Concept Landing Page | Next.js, Tailwind CSS, Framer Motion
 
@@ -62,14 +58,10 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 - #### Github Repository : https://github.com/ArslanJajja1/Metaverse-Concept-Landing-Page
 
-- #### Video Demo of Project : will be added soon
-
 ### 8. SushiSpot Landing Page | HTML, CSS
 
 - #### Deployed Link : will be added soon
 - #### Github Repository : https://github.com/ArslanJajja1/SushiSpot-Landing-Page
-- #### Video Demo of Project : will be added soon
-
   
 ## YouTube Channel: Arslan's Code Corner 🎥
 
