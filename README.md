@@ -22,7 +22,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
   
 - #### Github Repository : https://github.com/ArslanJajja1/Bootcamps-directory-backend-api
   
-- #### Video Demo of Project : will be added soon
+- #### Video Demo of Project : https://youtu.be/piHBMjdyEww
 
 ### 3. Full Stack Chat Application | React.js, Node.js, Express.js, Socket.io, MongoDB
 
