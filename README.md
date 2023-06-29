@@ -62,7 +62,7 @@ I am a passionate and skilled software engineer with expertise in the MERN stack
 
 ### 8. SushiSpot Landing Page | HTML, CSS
 
-- #### Deployed Link : will be added soon
+- #### Deployed Link : https://sushispot.web.app/
 - #### Github Repository : https://github.com/ArslanJajja1/SushiSpot-Landing-Page
   
 ## YouTube Channel: Arslan's Code Corner 🎥
