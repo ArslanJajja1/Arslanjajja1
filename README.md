@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-Hello, my name is Arslan Haroon, and I am a fresh graduate in software engineering. I am known for my cool and calm demeanor, especially when faced with challenging code issues. I have a deep passion for learning and staying up-to-date with the latest advancements in technology. My greatest joy comes from developing new things and solving problems through coding. Throughout my academic journey, I have successfully built numerous software projects, further honing my technical skills. To share my knowledge and help others, I actively contribute to the tech community through my blog and YouTube channel, where I create tutorials. Helping people is something I genuinely enjoy, and I always maintain a 'can-do' attitude. I am excited about the opportunity to apply my skills and contribute to your company success as a software engineer.
+Hello, my name is Arslan Haroon, and I have 2 years of experience in software engineering. I am known for my cool and calm demeanor, especially when faced with challenging code issues. I have a deep passion for learning and staying up-to-date with the latest advancements in technology. My greatest joy comes from developing new things and solving problems through coding. Throughout my academic journey, I have successfully built numerous software projects, further honing my technical skills. To share my knowledge and help others, I actively contribute to the tech community through my blog and YouTube channel, where I create tutorials. Helping people is something I genuinely enjoy, and I always maintain a 'can-do' attitude. I am excited about the opportunity to apply my skills and contribute to your company success as a software engineer.
 
 ## University Projects 💻
 
