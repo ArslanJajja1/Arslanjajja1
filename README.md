@@ -1,6 +1,6 @@
 # Hello, I’m Arslan Haroon 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/arslanharoon) [![YouTube](https://img.shields.io/badge/YouTube-Arslan's_Code_Corner-red?logo=youtube\&logoColor=white)](https://www.youtube.com/@arslancodecorner) [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blueviolet?logo=hashnode\&logoColor=white)](https://arslanharoon.hashnode.dev) [![Email](https://img.shields.io/badge/Email‑Me-cyan?logo=gmail\&logoColor=white)](mailto:official.arslan.haroon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/arslan-haroon) [![YouTube](https://img.shields.io/badge/YouTube-Arslan's_Code_Corner-red?logo=youtube\&logoColor=white)](https://www.youtube.com/@arslantechlab) [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blueviolet?logo=hashnode\&logoColor=white)](https://arslanharoon.hashnode.dev) [![Email](https://img.shields.io/badge/Email‑Me-cyan?logo=gmail\&logoColor=white)](mailto:official.arslan.haroon@gmail.com)
 
 ---
 
@@ -10,9 +10,9 @@ I’m a **Senior Software Engineer @ Wanile** with 4+ years of experience crafti
 
 **Core Strengths:**
 
-* 🌐 **Full-Stack Development:** React, Next.js, Tailwind, Node.js, Express, NestJS
+* 🌐 **Full-Stack Development:** Javascript, Typescript, React, Next.js, Tailwind,Shadcn Node.js, Express, NestJS
 * 🗄️ **Databases & Infrastructure:** MongoDB, PostgreSQL, Supabase, Redis, Docker, AWS, Vercel, Railway
-* 🤖 **AI & Machine Learning:** OpenAI, LangChain, embeddings, fine-tuning, vector search
+* 🤖 **AI & Machine Learning:** OpenAI, LangChain, vercel's ai sdk, embeddings, fine-tuning, vector search, Pandas, Numpy, Matplotlib, sci-kit learn, pytorch, tensorflow
 * ⚙️ **DevOps & CI/CD:** GitHub Actions, Docker, Kubernetes concepts, performance profiling, TDD
 
 ---
@@ -92,7 +92,7 @@ I’m a **Senior Software Engineer @ Wanile** with 4+ years of experience crafti
 
 ## 📫 Get in Touch
 
-* **LinkedIn:** [arslanharoon](https://linkedin.com/in/arslanharoon)
+* **LinkedIn:** [arslanharoon](https://linkedin.com/in/arslan-haroon)
 * **Email:** [official.arslan.haroon@gmail.com](mailto:official.arslan.haroon@gmail.com)
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
