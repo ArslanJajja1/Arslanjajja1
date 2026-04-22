@@ -1,98 +1,80 @@
-# Hello, I’m Arslan Haroon 👋
+# Arslan Haroon | AI & ML Engineer 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/arslan-haroon) [![YouTube](https://img.shields.io/badge/YouTube-Arslan's_Code_Corner-red?logo=youtube\&logoColor=white)](https://www.youtube.com/@arslantechlab) [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blueviolet?logo=hashnode\&logoColor=white)](https://arslanharoon.hashnode.dev) [![Email](https://img.shields.io/badge/Email‑Me-cyan?logo=gmail\&logoColor=white)](mailto:official.arslan.haroon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-haroon)
+[![YouTube](https://img.shields.io/badge/YouTube-Arslan's_Code_Corner-red?logo=youtube&logoColor=white)](https://www.youtube.com/@arslantechlab)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blueviolet?logo=hashnode&logoColor=white)](https://arslanharoon.hashnode.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-cyan?logo=gmail&logoColor=white)](mailto:official.arslan.haroon@gmail.com)
 
----
-
-## 🚀 About Me
-
-I’m a **Senior Software Engineer @ Wanile** with 4+ years of experience crafting production-grade SaaS applications. I thrive on solving tough problems, learning emerging technologies, and sharing knowledge. When I’m not coding, you’ll find me writing tutorials or recording videos on my blog and YouTube channel.
-
-**Core Strengths:**
-
-* 🌐 **Full-Stack Development:** Javascript, Typescript, React, Next.js, Tailwind,Shadcn Node.js, Express, NestJS
-* 🗄️ **Databases & Infrastructure:** MongoDB, PostgreSQL, Supabase, Redis, Docker, AWS, Vercel, Railway
-* 🤖 **AI & Machine Learning:** OpenAI, LangChain, vercel's ai sdk, embeddings, fine-tuning, vector search, Pandas, Numpy, Matplotlib, sci-kit learn, pytorch, tensorflow
-* ⚙️ **DevOps & CI/CD:** GitHub Actions, Docker, Kubernetes concepts, performance profiling, TDD
+I design and ship **production AI systems** that solve real business problems, from legal automation and document intelligence to autonomous video pipelines.
 
 ---
 
-## 💼 Professional Experience
+## 🧠 What I Bring
 
-### **Senior Software Engineer @ Wanile** *(Jan 2024 – Present)*
-
-**Key Projects:**
-
-* **LocalFever** – Built a multi-template page-builder SaaS for service professionals. Integrated Stripe (payments & Connect), invoicing, CRM workflows, and deployed on AWS with robust DevOps pipelines.
-* **GOlegal AI** – Engineered an AI-driven legal-tech platform handling 5,000+ document templates. Added risk tracking, automated audits, real-time legal chat, and e-signature workflows.
-* **Kitabh** – Developed a Substack-style Arabic blogging platform tailored for the Middle East, supporting RTL and rich-text editing.
-* **BoardAI** – Led development of an AI platform for board members to analyze, summarize, and chat with corporate documents across multiple companies.
-
-### **Senior Software Engineer @ Transpify** *(Oct 2022 – Dec 2023)*
-
-* **Let’s Fuckin’ Do It** – Created a goal-setting platform with monetary stakes, email reminders, and challenge tracking. Implemented friend challenges and supervisor workflows.
-* **ViralMe.today** – Architected an autonomous AI video-editing SaaS: transcripts, auto-clips, text-to-video, voice-overs, 60–120 FPS upscaling, noise removal, and lossless compression. Deployed freemium tiers to monetize GPU workflows.
-* **Feedback SaaS** – Built a feedback collection tool where users can request features, vote, and comment on product improvements.
-
-### **Software Engineer @ TechNDevs** *(Nov 2020 – Oct 2022)*
-
-* **Small SEO Tools Clone** – Developed a suite of SEO utilities for marketing teams.
-* **Syndicate** – Built a financial syndicate platform for SMEs to collaborate on investments, share financials, and calculate returns.
-* **PayPaaS** – Implemented a payment-onboarding system for schools and restaurants using 1Link, enabling seamless student payments and vendor reconciliations.
+- **AI Product Engineering:** LLM apps, RAG, prompt workflows, embeddings, vector search, AI copilots
+- **ML Foundations:** model experimentation, fine-tuning workflows, data analysis, evaluation loops
+- **Scalable Backend Delivery:** Node.js, TypeScript, NestJS/Express, Python, distributed SaaS architecture
+- **Cloud & MLOps Mindset:** Docker, AWS, CI/CD, performance tuning, reliable production releases
 
 ---
 
-## 🎓 University Projects (BS Software Engineering)
+## 🛠️ AI/ML Stack
 
-1. **E‑Commerce Web App** *(MERN)*
+**LLM & AI Frameworks**  
+OpenAI, LangChain, Vercel AI SDK, RAG pipelines, prompt engineering
 
-   * Repo: [Full-stack-ecommerce-web-app](https://github.com/ArslanJajja1/Full-stack-ecommerce-web-app)
-   * Demo: [YouTube](https://youtu.be/gMoH6iLz6h4)
+**ML & Data**  
+Python, Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow
 
-2. **Bootcamp Directory API** *(Node.js, Express, MongoDB)*
-
-   * Docs: [Postman](https://documenter.getpostman.com/view/14040172/VUquNGDU)
-   * Repo: [Bootcamps-directory-backend-api](https://github.com/ArslanJajja1/Bootcamps-directory-backend-api)
-   * Demo: [YouTube](https://youtu.be/piHBMjdyEww)
-
-3. **Real‑Time Chat App** *(React, Socket.io)*
-
-   * Repo: [mern-chat-application](https://github.com/ArslanJajja1/mern-chat-application)
-   * Demo: [YouTube](https://youtu.be/_PJ9Xb2wQ4Y)
-
-4. **Multivendor Marketplace** *(FYP, React, Socket.io)*
-
-   * Repo: [Multivendor\_eCommerce\_Platform\_FYP](https://github.com/ArslanJajja1/Multivendor_eCommerce_Platform_FYP)
-   * Demo: [YouTube](https://youtu.be/KWI96kyBOCw)
-
-5. **10 Websites in 12‑Hour Tutorial** *(HTML, CSS, JS)*
-
-   * Repo & Demo: [YouTube](https://youtu.be/-XyrUePwH7w)
-
-6. **YouTube Clone** *(React, Material UI)*
-
-   * Live: [Netlify](https://cute-lokum-4114f6.netlify.app/)
-   * Repo: [Video-Sharing-Application](https://github.com/ArslanJajja1/Video-Sharing-Application)
-
-7. **Article Summarizer** *(React, Tailwind, RapidAPI)*
-
-   * Repo: [Article-Summarizer](https://github.com/ArslanJajja1/Article-Summarizer)
-   * Demo: [YouTube](https://youtu.be/wCXpEj81YCA)
-
-8. **Metaverse Landing Page** *(Next.js, Tailwind, Framer Motion)*
-
-   * Live: [Metaversus](https://metaversus-landing-page.web.app/)
-   * Repo: [Metaverse-Concept-Landing-Page](https://github.com/ArslanJajja1/Metaverse-Concept-Landing-Page)
-
-9. **SushiSpot Landing Page** *(HTML, CSS)*
-
-   * Live & Repo: [SushiSpot-Landing-Page](https://sushispot.web.app/)
+**Backend & Infrastructure**  
+TypeScript, JavaScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Supabase, Docker, AWS, GitHub Actions
 
 ---
 
-## 📫 Get in Touch
+## 🚀 Selected AI-Focused Work
 
-* **LinkedIn:** [arslanharoon](https://linkedin.com/in/arslan-haroon)
-* **Email:** [official.arslan.haroon@gmail.com](mailto:official.arslan.haroon@gmail.com)
+### **GOlegal AI** (Wanile)
+- Built AI workflows for legal document operations across **5,000+ templates**
+- Implemented automated audits, risk tracking, and real-time legal chat
+- Helped deliver a practical AI layer for legal teams handling high document volume
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+### **BoardAI** (Wanile)
+- Led development of a multi-company AI workspace for board-level document analysis
+- Enabled summarization and conversational retrieval over enterprise content
+- Focused on clear, trustworthy AI outputs for executive decision support
+
+### **ViralMe.today** (Transpify)
+- Architected autonomous AI video processing: transcript understanding, clipping, voice-over, text-to-video
+- Supported GPU-heavy workflows (upscaling, noise removal, compression) in a monetized SaaS model
+- Balanced AI quality with cost/performance constraints in production
+
+---
+
+## 💼 Experience Snapshot
+
+- **Senior Software Engineer @ Wanile** *(Jan 2024 – Present)*  
+  Building AI-native SaaS products across legal-tech, content systems, and board intelligence
+
+- **Senior Software Engineer @ Transpify** *(Oct 2022 – Dec 2023)*  
+  Delivered automation-first SaaS platforms, including AI media generation workflows
+
+- **Software Engineer @ TechNDevs** *(Nov 2020 – Oct 2022)*  
+  Built and scaled full-stack products in fintech, SEO, and digital services
+
+---
+
+## 🎯 Current Focus
+
+- LLM application architecture and evaluation
+- Retrieval-augmented systems for domain-heavy data
+- Productionizing AI features with measurable user impact
+- Building at the intersection of **AI + SaaS + automation**
+
+---
+
+## 📫 Let’s Connect
+
+- **LinkedIn:** [arslan-haroon](https://linkedin.com/in/arslan-haroon)
+- **Email:** [official.arslan.haroon@gmail.com](mailto:official.arslan.haroon@gmail.com)
+- **YouTube:** [@arslantechlab](https://www.youtube.com/@arslantechlab)
+- **Blog:** [arslanharoon.hashnode.dev](https://arslanharoon.hashnode.dev)
